@@ -1,24 +1,26 @@
 # Memory Game Project
 
 ## What is the Memory Game
-This is a simple game built to test a users memory. There's a deck of cards with different icons. 
-![snippet](img/Screenshot 2018-12-11 at 19.09.14.png)
+This is a game to test the skills I have learned in my Udacity course.
 
-## Challenge
-Match cards in less time with less moves.
+## Objective
+Match all the cards in tghe fastest time with the fewest moves. 
 
-## How to Play
-Load this link in your browser https://memory-game-fend.herokuapp.com/
+## How to Play The Game
+Open the Memory Game file provided and double click the index.html file to start the game.
 
 ## Instructions
-* Click on a card
-* Keep revealing cards and working your memory to remember each unveiled card.
-* Match cards properly with less moves and in faster time
+* Select a card to show a picture
+* Keep revealing cards until you find a match and keep track of where each card is.
+* Match cards quicly in the fewest moves. 
 
 
-## How I built the Memory Game
-I manipulated the DOM with Vanilla JS, altered part of the HTML and also styled the game
-* created a deck of cards that shuffles when game is refreshed
-* created a counter to count the number of moves made by player and timer to know the duration of a play
-* added effects to cards when they match and are unmatched
-* create a pop-up modal when player wins game
+## Sites I used to help me
+https://www.taniarascia.com/how-to-create-a-memory-game-super-mario-with-plain-javascript/
+https://www.w3schools.com/css/css_text.asp
+https://www.w3schools.com/icons/fontawesome_icons_webapp.asp
+https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript#toc-6-restart-button
+https://codepen.io/juliogcampos/pen/BzdjwY
+https://devdojo.com/tutorials/create-a-deck-of-cards-in-javascript
+https://css-tricks.com/how-css-selectors-work/
+
