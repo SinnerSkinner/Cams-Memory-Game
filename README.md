@@ -23,4 +23,4 @@ https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript#to
 https://codepen.io/juliogcampos/pen/BzdjwY
 https://devdojo.com/tutorials/create-a-deck-of-cards-in-javascript
 https://css-tricks.com/how-css-selectors-work/
-
+https://appendto.com/2016/02/empty-array-javascript/
